@@ -1,0 +1,17 @@
+[
+    {
+        "name": "some name1",
+        "year": 2018,
+        "price": 5000
+    },
+    {
+        "name": "some name2",
+        "year": 2017,
+        "price": 4000
+    },
+    {
+        "name": "some name3",
+        "year": 2015,
+        "price": 3000
+    }
+]
