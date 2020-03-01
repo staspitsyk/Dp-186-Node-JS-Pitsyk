@@ -1,0 +1,19 @@
+
+li {
+    list-style-type: circle;
+    cursor: pointer;
+}
+
+.todo-list {
+    margin: 0 auto;
+    width: 500px;
+    height: 400px;
+    background-color: rgb(216, 216, 216);
+    border: 2px solid black;
+}
+
+
+.checked {
+    text-decoration: line-through;
+    list-style-type: disc;
+}
