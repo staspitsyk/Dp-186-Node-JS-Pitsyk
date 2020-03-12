@@ -1,0 +1,16 @@
+.search {
+    margin: 0 auto;
+    width: auto;
+
+}
+
+.search__form {
+    margin: 10px auto;
+    width: auto;
+
+}
+
+.search__output {
+    display: flex;
+    justify-content: space-around;
+}
